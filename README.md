@@ -13,7 +13,7 @@ This online tool estimates how long it would take for a computer to crack a pass
 
 ## Passwords Created and Evaluated
 
-| **Password**         | **Estimated Crack Time** | **Tool Feedback / Observations**                 |
+| **Password**         | **Estimated Crack Time** |                 **Observations**                 |
 | -------------------- | ------------------------ | ------------------------------------------------ |
 | `hello`              | Instantly                | Very weak, lacks complexity and length           |
 | `hello12`            | 1 second                 | Weak, predictable, lacks symbols/uppercase       |
