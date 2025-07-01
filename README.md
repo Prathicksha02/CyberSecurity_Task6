@@ -26,7 +26,7 @@ This online tool estimates how long it would take for a computer to crack a pass
 
 ---
 
-## Creating Strong Passwords
+## Best Practices for Creating Strong Passwords
 1. Use passwords with at least 12-16 characters
 2. Combine uppercase, lowercase, numbers, and symbols
 3. Avoid simple patterns or common dictionary words alone
