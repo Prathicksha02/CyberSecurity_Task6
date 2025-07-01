@@ -15,7 +15,7 @@ This online tool estimates how long it would take for a computer to crack a pass
 
 | **Password**         | **Estimated Crack Time** |                 **Observations**                 |
 | -------------------- | ------------------------ | ------------------------------------------------ |
-| hello                | Instantly                | Very weak, lacks complexity and length           |
+| `hello`              | Instantly                | Very weak, lacks complexity and length           |
 | `hello12`            | 1 second                 | Weak, predictable, lacks symbols/uppercase       |
 | `sparrow`            | Instantly                | Common word, no numbers or symbols               |
 | `Sparrow222_!@`      | 15 billion years         | Strong, good mix of uppercase, numbers, symbols  |
