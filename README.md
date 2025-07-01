@@ -22,11 +22,11 @@ This online tool estimates how long it would take for a computer to crack a pass
 | `P@55w0rD_!7hK9#`    | 15 billion years         | Extremely strong, complex and long password      |
 | `Cyber_@Security123` | 7 quadrillion years      | Very strong, good use of words, symbols, numbers |
 
-# Screenshot Proof : Screenshots_Task6
+**Screenshot Proof : Screenshots_Task6**
 
 ---
 
-# Creating Strong Passwords
+## Creating Strong Passwords
 1. Use passwords with at least 12-16 characters
 2. Combine uppercase, lowercase, numbers, and symbols
 3. Avoid simple patterns or common dictionary words alone
@@ -35,7 +35,7 @@ This online tool estimates how long it would take for a computer to crack a pass
 
 ---
 
-# Common Password Attacks
+## Common Password Attacks
 
 | **Attack Type**         | **Description**                                                                                                                     |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,7 +46,7 @@ This online tool estimates how long it would take for a computer to crack a pass
 
 ---
 
-# How Password Complexity Affects Security
+## How Password Complexity Affects Security
 Password complexity dramatically increases the time required to crack a password:
 
 Simple passwords (e.g., hello, hello12) can be cracked instantly or in seconds using automated tools.
@@ -62,7 +62,7 @@ Conclusion: Complex, long, and unpredictable passwords are essential to defend a
 
 ---
 
-# Conclusion
+## Conclusion
 This evaluation demonstrates that password strength dramatically improves with length, character diversity, and unpredictability. Weak passwords can be cracked in seconds, while complex ones resist attacks for billions of years, making them essential for protecting sensitive data.
 
 ---
