@@ -22,7 +22,7 @@ This online tool estimates how long it would take for a computer to crack a pass
 | `P@55w0rD_!7hK9#`    | 15 billion years         | Extremely strong, complex and long password      |
 | `Cyber_@Security123` | 7 quadrillion years      | Very strong, good use of words, symbols, numbers |
 
-**Screenshot Proof : Screenshots_Task6**
+**Screenshot Proof : Screenshots_Task 6**
 
 ---
 
