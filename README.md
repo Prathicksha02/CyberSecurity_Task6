@@ -42,7 +42,7 @@ This online tool estimates how long it would take for a computer to crack a pass
 | **Brute Force Attack**  | Systematically tries every possible character combination. Longer, complex passwords take significantly longer to crack.            |
 | **Dictionary Attack**   | Uses lists of common words or known weak passwords to guess credentials. Avoiding dictionary words helps prevent this.              |
 | **Credential Stuffing** | Attackers use leaked passwords from one platform to try accessing other accounts, highlighting the danger of password reuse.        |
-| **Phishing Attacks**    | Tricks users into revealing passwords via fake websites or emails. Even strong passwords are ineffective if voluntarily given away. |
+| **Phishing Attacks**    | Tricks users into revealing passwords fake websites or emails. Even strong passwords are ineffective if voluntarily given away. |
 
 ---
 
